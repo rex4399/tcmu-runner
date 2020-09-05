@@ -29,6 +29,7 @@ int main()
 	
  	// ¼ÆËãĞÇÆÚ¼¸
 	printf("%d\n", tm1.tm_wday); 
-
-	return 0;
+	
+	// add some private code
+	return -1;
 }
